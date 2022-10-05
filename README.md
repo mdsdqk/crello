@@ -1,2 +1,4 @@
-# crello
-Trello Clone built with React (cra) using Typescript
+# Crello
+
+A trello clone built with React and TypeScript.
+The app was created using create-react-app
